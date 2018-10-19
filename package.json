@@ -1,0 +1,23 @@
+{
+  "name": "chluna-website",
+  "version": "1.0.0",
+  "description": "Para compilar el contenido `Open Terminal` y luego escribir el comando `build-content`",
+  "main": "index.js",
+  "scripts": {
+    "build:content": "node node_modules/frontmatter-markdown-to-json --out=data",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chlunamega/website.git"
+  },
+  "author": "Diego Villaseñor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chlunamega/website/issues"
+  },
+  "homepage": "https://github.com/chlunamega/website#readme",
+  "dependencies": {
+    "frontmatter-markdown-to-json": "0.0.7"
+  }
+}
