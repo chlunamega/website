@@ -3,8 +3,8 @@ _nota: Es necesario usar "http://" para los links
 image: profile.jpeg
 cv: cv.pdf
 email: ch.luna.mega@gmail.com
-soundcloud: http://www.soundcloud.com/chlunamega
-youtube: http://www.youtube.com/chlunamega
+soundcloud: https://soundcloud.com/christopher-luna-mega
+youtube: https://www.youtube.com/channel/UC_Uz_eBqMtXeC7GhZmMmfYA/featured?view_as=subscriber
 ---
 
 Christopher Luna-Mega is a composer and improviser. Born in the United States and raised in Mexico City, he studied Composition at the Universidad Nacional Autónoma de México –UNAM (B.M.) and Mills College (M.A.), as well as Film/Communication Theory at the Universidad Iberoamericana –UIA, Mexico City (B.A.). Interested in focused listening, improvisation, contemplation and silence, his work analyzes sounds from natural and urban environments and translates them into notated music for performers and electronics.
