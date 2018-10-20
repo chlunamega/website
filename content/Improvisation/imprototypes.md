@@ -1,5 +1,5 @@
 ---
-slug: imprototype-1
+slug: imprototypes
 mp3: bouncing-whammie.mp3
 creation_date: 2018-09-18
 showable_date: Imprototype 1
