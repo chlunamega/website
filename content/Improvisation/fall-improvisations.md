@@ -1,6 +1,6 @@
 ---
 title: Fall improvisations
-slug: fall-improvisations-2
+slug: fall-improvisations
 mp3: fall-improvisations-2.mp3
 creation_date: 2018-10-19
 showable_date: 10.19.2018
