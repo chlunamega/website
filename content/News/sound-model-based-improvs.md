@@ -2,7 +2,7 @@
 nota: Fechas en formato YYYY-MM-DD, el slug debe ser el nombre de folder en public/news/. i.e. "public/news/<mi-slug>/imagen.jpg"
 published_date: 2018-10-17
 slug: sound-model-based-improvisations
-showable_date: 11 de octubre de 2018
+showable_date: 10.17.2018
 title: Sound model-based improvisations
 image: sonogram.jpeg
 img_width: 400
