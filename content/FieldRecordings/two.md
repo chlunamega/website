@@ -2,7 +2,7 @@
 title: Geysir
 duration: 10 min
 place: Geysir, Island
-slug: two
+slug: geysir
 mp3: geysir-fieldrecording.mp3
 image: geysir-pic1.jpg
 pdf: doc.pdf
