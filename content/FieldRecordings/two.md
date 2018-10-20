@@ -5,7 +5,7 @@ place: Geysir, Island
 slug: geysir
 mp3: geysir-fieldrecording.mp3
 image: geysir-pic1.jpg
-pdf: geysir.pdf
+pdf: geysir.pdf_DESCRIPTION_recording as sound model for piece for seven pianists
 year: 2016
 creation_date: 2016-04-14
 category: Geophony
