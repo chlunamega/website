@@ -6,6 +6,7 @@ slug: topographies
 mp3: topographies.mp3_DESCRIPTION_Orquesta Sinfónica de la Escuela Nacional de Música de la UNAM, David Rocha (conductor)
 aiff: topografias
 image: topographies.jpg
+img_width: 400
 pdf: topographies.pdf_DESCRIPTION_Topographies
 year: 2009
 creation_date: 2009-10-01
