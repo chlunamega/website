@@ -13,4 +13,4 @@ category: Chamber Orchestra
 youtube: ZsYfJWaVNKU
 ---
 
-Jatyantara-Parinamah
+The music included in this cycle originated from a collection of sounds that I have listened to and recorded in different locations (the city, my studio, the woods, etc.) and that became the prime materials of my work during my work at Mills College. As I listened to these sounds, I became interested in the way in which their harmony, rhythm, density, dynamics and timbre relate to each other and how they evolve in time. In the process of translation from field recording to instrumental music there is a transformation that occurs due to notation, acoustics, and esthetics. My objective is to bring these sounds to music (are they music already?) as faithfully as possible, establishing a direct connection to their original form, imagining their transformation as transmigration (in sanscrit, Jatyantara-parinamah): the characteristic traits of a sound are detached from their source and born into a new form (the composition, the musician and the instrument), adding to it a new layer of existence and at the same time keeping the essence of its previous source.
