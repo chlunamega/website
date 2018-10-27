@@ -3,7 +3,7 @@ title: Waves Break Aural Shores
 subtitle: portrait of Puerto Marqués
 duration: 10 min
 slug: waves-break-aural-shores
-mp3: waves.mp3
+mp3: waves.mp3_DESCRIPTION_New Thread Quartet
 image: waves-pic.png
 img_width: 400
 pdf: waves-score.pdf_DESCRIPTION_Waves Break Aural Shores (portrait of Puerto Marqués)
