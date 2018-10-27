@@ -5,7 +5,7 @@ image: korwar-mache-image.png
 pdf: korwar-mache-analysis.pdf_DESCRIPTION_François-Bernard Mâche's "Korwar"
 year: 2018
 creation_date: 2018-04-15
-category: Text
+category: Analysis
 
 ---
 
