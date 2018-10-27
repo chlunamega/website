@@ -3,10 +3,10 @@ title: Topographies
 subtitle: (orchestra)
 duration: 14 min
 slug: topographies
-mp3: topographies
+mp3: topographies.mp3
 aiff: topografias
 image: topographies.jpg
-pdf: topographies.pdf
+pdf: topographies.pdf_DESCRIPTION_Topographies
 year: 2009
 creation_date: 2009-10-01
 instrumentation: Orchestra
