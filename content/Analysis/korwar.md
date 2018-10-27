@@ -2,6 +2,7 @@
 title: François-Bernard Mâche's "Korwar", notation implications of timbre in sound models 
 slug: korwar
 image: korwar-mache-image.png
+img_width: 400
 pdf: korwar-mache-analysis.pdf_DESCRIPTION_François-Bernard Mâche's "Korwar"
 year: 2018
 creation_date: 2018-04-15

@@ -6,6 +6,7 @@ slug: splatter
 mp3: Splatter-ISO.mp3_DESCRIPTION_Iceland Symphony Orchestra, Ilan Volkov (conductor), Roscoe Mitchell (soprano saxophone)$ Splatter-MTAO.mp3_DESCRIPTION_Montreal Toronto Art Orchestra, Gregory Oh (conductor)
 aiff: Splatter
 image: Splatter-transcription.png
+img_width: 400
 pdf: Splatter-orchestra.pdf_DESCRIPTION_For Orchestra $ Splatter-chamber-orchestra.pdf_DESCRIPTION_For Chamber Orchestra
 year: 2016
 creation_date: 2016-01-28
