@@ -5,7 +5,7 @@ place: Albemarle, VA
 slug: night-music
 mp3: night-music.mp3
 image: walnutcreek.jpg
-pdf: night-music.png_DESCRIPTION_sonogram (fragment)
+pdf: night-music-sonogram.png_DESCRIPTION_sonogram (fragment)
 year: 2018
 creation_date: 2018-08-10
 category: Biophony
