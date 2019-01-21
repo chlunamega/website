@@ -2,7 +2,7 @@
 title: Geysir
 subtitle: for seven pianists
 duration: 9 min
-slug: geysir
+slug: geysir-composition
 mp3: geysir.m4a
 image: geysir-pic.png
 img_width: 400
