@@ -3,8 +3,8 @@ title: Geysir
 subtitle: for seven pianists
 duration: 9 min
 slug: geysir-composition
-mp3: geysir.m4a
-image: geysir-pic.png
+mp3: geysir.mp3
+image: geysir-pic.jpg
 img_width: 400
 pdf: geysir-score.pdf_DESCRIPTION_Geysir (for seven pianists)
 year: 2016
