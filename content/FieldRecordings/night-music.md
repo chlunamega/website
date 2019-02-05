@@ -3,7 +3,7 @@ title: Night-Music
 duration: 1min (fragment)
 place: Albemarle, VA
 slug: night-music
-mp3: night-music.mp3
+mp3: through-summersultryings.mp3
 image: walnutcreek.jpg
 pdf: night-music-sonogram.png_DESCRIPTION_sonogram (fragment)
 year: 2018
@@ -12,4 +12,5 @@ category: Biophony
 description: Insects and some mammals in Walnut Creek Park
 ---
 
-This is a fragment of a recording of a summer dusk insect chorus in Walnut Creek Park, Albemarle, Virginia. The recording uses five microphones in a pentagonal formation, at a distance of ~30 meters between each mic. The objective was to perceive as much of the sonic texture as possible, in order to recreate the recording with spatialized speakers. 
+This is one of the five channels of a spatialized recording that features summer dusk sounds in a Virginia deciduous forest. The recording was made with five simultaneous microphones spread out facing outwards in an imaginary pentagon of 180 ft./side. Each mic. is assigned to one of the five spatialized speakers in the installation or performance space.
+The soundscape features a gradual saturation and de-saturation in the texture over the course of 36’30’’.
