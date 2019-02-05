@@ -4,7 +4,7 @@ subtitle: for Splinter Reeds
 duration: 8 min 30 sec
 slug: night-music-composition
 mp3: night-music.mp3_DESCRIPTION_Splinter Reeds
-image: night-music-pic.png
+image: night-music-pic.jpg
 img_width: 400
 pdf: night-music-score.pdf_DESCRIPTION_Night music (for Splinter Reeds)
 year: 2019
