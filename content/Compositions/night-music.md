@@ -1,6 +1,6 @@
 ---
 title: Night music 
-subtitle: for Splinter Reeds
+subtitle: for Splinter Reeds (ob., cl., alto sax., bass cl., bn.)
 duration: 8 min 30 sec
 slug: night-music-composition
 mp3: night-music.mp3_DESCRIPTION_Splinter Reeds concert recording$ night-music-field-recording.mp3_DESCRIPTION_original summer dusk forest recording
