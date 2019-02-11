@@ -4,7 +4,8 @@ duration: 1min (fragment)
 place: Albemarle, VA
 slug: night-music
 mp3: through-summersultryings.mp3
-image: walnutcreek.jpg
+image: walnutcreek.jpg$ installation1.jpg
+img_width: 400
 pdf: night-music-sonogram.png_DESCRIPTION_sonogram (fragment)
 year: 2018
 creation_date: 2018-08-10
