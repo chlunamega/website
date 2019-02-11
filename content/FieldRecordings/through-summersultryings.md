@@ -3,7 +3,6 @@ title: Through summersultryings
 duration: 73' and varied durations
 place: Albemarle, VA
 slug: through-summersultryings
-mp3: through-summersultryings.mp3
 image: installation1.jpg
 pdf: multi-sonogram.pdf_DESCRIPTION_sonogram (fragment) of the 5 microphones
 year: 2019
