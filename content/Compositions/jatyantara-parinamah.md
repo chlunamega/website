@@ -4,6 +4,7 @@ duration: 14min
 slug: jatyantara-parinamah
 mp3: jatyantara-parinamah.mp3_DESCRIPTION_Rachel Condry, clarinet; Joshua Marshall, tenor saxophone; Peter Sloan, trombone; Aprille Tang, electronics; Stephan Haluska, harp; Brian Baumbusch, acoustic guitar; Jacob Peck, electric guitar; Julie Moon, piano; Tim Black, percussion; Scott Siler, percussion; Tim Kim, violin 1; Dylan Neely, violin 2; Crystal Pascucci, cello 1; Kimberly Sutton, cello 2; Christopher Luna-Mega, conductor
 image: jatyantara-manuscript.jpg
+img_width: 400
 pdf: jatyantara-parinamah.pdf_DESCRIPTION_Jatyantara-parinamah
 year: 2012-2013
 creation_date: 2013-03-15
