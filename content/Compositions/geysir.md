@@ -6,7 +6,7 @@ slug: geysir-composition
 mp3: geysir.mp3
 image: geysir-pic.jpg
 img_width: 400
-pdf: geysir-score.pdf_DESCRIPTION_Geysir (for seven pianists)
+pdf: geysir-score.pdf_DESCRIPTION_Geysir (for seven pianists)---------  $geysir-pitch-class-predominance-analysis.pdf_DESCRIPTION_Geysir's pitch-class predominance analysis
 year: 2016
 creation_date: 2016-09-29
 instrumentation: (seven pianists)
