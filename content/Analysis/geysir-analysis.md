@@ -1,7 +1,7 @@
 ---
 title: Analysis of pitch class predominance and amplitude of Geysir, Haukadalur valley, Iceland 
 slug: geysir-analysis
-mp3: staff1-bar39.mp3.mp3_DESCRIPTION_Sound example (Staff 1)$ staff2-bar57.mp3_DESCRIPTION_Sound example (Staff 2)$ staff3-bar24.mp3_DESCRIPTION_Sound example (Staff 3)$ staff4-bar83.mp3_DESCRIPTION_Sound example (Staff 4)$ staff5-bar24.mp3_DESCRIPTION_Sound example (Staff 5)$ staff6-bar86.mp3_DESCRIPTION_Sound example (Staff 6)$ staff7-bar94.mp3_DESCRIPTION_Sound example (Staff 7)
+mp3: staff1-bar39.mp3_DESCRIPTION_Sound example (Staff 1)$ staff2-bar57.mp3_DESCRIPTION_Sound example (Staff 2)$ staff3-bar24.mp3_DESCRIPTION_Sound example (Staff 3)$ staff4-bar83.mp3_DESCRIPTION_Sound example (Staff 4)$ staff5-bar24.mp3_DESCRIPTION_Sound example (Staff 5)$ staff6-bar86.mp3_DESCRIPTION_Sound example (Staff 6)$ staff7-bar94.mp3_DESCRIPTION_Sound example (Staff 7)
 image: geysir-amplitude.png
 img_width: 400
 pdf: geysir-analysis of pitch class predominance and amplitude.pdf_DESCRIPTION_Analysis of pitch class predominance and amplitude of Geysir, Haukadalur valley, Iceland$ geysir-pitch-class-predominance-analysis.pdf_DESCRIPTION_Pitch predominance analysis (full code results)
