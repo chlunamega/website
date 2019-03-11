@@ -13,7 +13,7 @@ category: Sound model-based compositions
 
 The sounds of geological phenomena are generally noise. Wind, glaciers, oceans, streams, and other geological sounds present a vast content of frequencies that often obscures individual pitches or groups of pitches. However, noise varies from sound to sound with different pitch predominance and patterns. This variance contributes to the signature that makes several noise sounds unique. In this study, the sound  of one the geysers in the Geysir system of the Haukadalur valley, 180 miles Northeast of Reykjavik, Iceland, is recorded and analyzed in multiple time segments, each with its own pitch predominance and, therefore, signature. The analysis is further adapted into a piece for seven spatialized pianists and electronics of my authorship, Geysir, which features the amplitude and predominant pitch class fluctuations throughout the geyser sample.
 
-This study presents analyzes 11 minutes of recording using a suite of software for the identification of amplitude and frequency (pitch) content. The pitches presented in this analysis are quantized –simplified– to equal temperament (C, C#, D, D#, etc.) for in order to be adapted to the piano’s tuning affordances. 
+This study presents analyses 11 minutes of recording using a suite of software for the identification of amplitude and frequency (pitch) content. The pitches presented in this analysis are quantized –simplified– to equal temperament (C, C#, D, D#, etc.) for in order to be adapted to the piano’s tuning affordances. 
 
 The audios provided below are audio examples illustrating the article. 
 
