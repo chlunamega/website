@@ -3,7 +3,7 @@ title: The arrow of time
 subtitle: for two percussionists and two pianists
 duration: 11 min
 slug: the-arrow-of-time
-mp3: the-arrow-of-time.mp3_DESCRIPTION_The arrow of time (original version)$ the-arrow-of-time-extended.mp3_DESCRIPTION_The arrow of time (extended version)$ arrow-cycle1-perc1_pno2.mp3_DESCRIPTION_fragment-cycle 1 – percussion and piano)$ arrow-cycle2-perc1_perc2_pno1.mp3_DESCRIPTION_fragment-cycle 2 – two percussions and piano) $arrow-cycle4-perc2_pno1_pno2.mp3_DESCRIPTION_fragment-cycle 4 – two pianos and percussion) $arrow-cycle5-perc1_perc2.mp3_DESCRIPTION_fragment-cycle 5 – two percussions)
+mp3: the-arrow-of-time.mp3_DESCRIPTION_The arrow of time (original version)$ the-arrow-of-time-extended.mp3_DESCRIPTION_The arrow of time (extended version)$ arrow-cycle1-perc1_pno2.mp3_DESCRIPTION_fragment-cycle 1 (percussion and piano)$ arrow-cycle2-perc1_perc2_pno1.mp3_DESCRIPTION_fragment-cycle 2 (two percussions and piano) $arrow-cycle4-perc2_pno1_pno2.mp3_DESCRIPTION_fragment-cycle 4 (two pianos and percussion) $arrow-cycle5-perc1_perc2.mp3_DESCRIPTION_fragment-cycle 5 (two percussions)
 image: arrow-pic.png
 img_width: 400
 pdf: arrow-graphscore.pdf_DESCRIPTION_The arrow of time (graphic score) $arrow-perc1.pdf_DESCRIPTION_Percussion 1 part $arrow-perc2.pdf_DESCRIPTION_Percussion 2 part $arrow-pno1.pdf_DESCRIPTION_Piano 1 part $arrow-pno2.pdf_DESCRIPTION_Piano 2 part $arrow-cycle-analysis.pdf_DESCRIPTION_The arrow of time (cycle analysis)
