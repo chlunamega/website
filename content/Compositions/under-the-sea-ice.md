@@ -4,8 +4,8 @@ subtitle: Meditations on the songs of the Arctic bearded seals
 duration: 11 min
 slug: under-the-sea-ice
 mp3: under-the-sea-ice.mp3_DESCRIPTION_JACK Quartet
-image: under-the-sea-ice.png
-img_width: 400
+image: under-the-sea-ice-AL5.png
+img_width: 600
 pdf: under-the-sea-ice.pdf_DESCRIPTION_Under the sea ice (score)
 year: 2016
 creation_date: 2015-12-15
