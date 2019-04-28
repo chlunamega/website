@@ -1,5 +1,4 @@
 ---
-title: piano solo no. 36
 slug: pianosolo
 mp3: 4-28-19-pianosolo.mp3
 creation_date: 2019-4-19
