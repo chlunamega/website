@@ -4,7 +4,7 @@ published_date: 2019-05-09
 slug: soundscape-pilgrimage
 showable_date: 10.10.2019
 title: Soundscapes of Pilgrimage in Northern Spain
-image: pilgrimage.png
+image: pilgrimage.jpg
 img_width: 400
 description: 
 location:
