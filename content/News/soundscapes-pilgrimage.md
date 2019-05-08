@@ -1,11 +1,11 @@
 ---
 nota: Fechas en formato YYYY-MM-DD, el slug debe ser el nombre de folder en public/news/. i.e. "public/news/<mi-slug>/imagen.jpg"
 published_date: 2019-05-09
-slug: soundscape-pilgrimage
+slug: soundscapes-pilgrimage
 showable_date: 10.10.2019
 title: Soundscapes of Pilgrimage in Northern Spain
 image: pilgrimage.jpg
-img_width: 300
+img_width: 400
 description: 
 location:
 ---
