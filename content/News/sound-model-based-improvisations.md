@@ -10,4 +10,4 @@ description: Christopher Luna-Mega, electric guitar/electronics; Diego Villaseñ
 location: Tea Bazaar, Charlottesville, Virginia
 ---
 
-This is the first of a series of concerts that explore improvisation through sound models. Part 1: Night Music; Part 2: Sonograms; Part 3: Loft Mountain Wind; Part 4: improvisation
+This is the first of a series of concerts with collaborator Diego Villaseñor. We explore sound model-based improvisations and composition. Part 1: Stridulating insects; Part 2: Cetacean sonograms; Part 3: Noise: wind at Loft Mountain, Shenandoah; Part 4: free improvisation
