@@ -12,7 +12,7 @@ year: 2009
 creation_date: 2009-10-01
 instrumentation: Orchestra
 forces: 2.2.2
-premiere: September 30 , 2009
+premiere: September 30, 2009. Sala Nezahualcóyotl, Mexico City
 category: Orchestra
 ---
 
