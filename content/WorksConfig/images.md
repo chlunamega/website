@@ -1,7 +1,7 @@
 ---
 _nota: Las imágenes van an public/works
 composition: composition.png
-field_recording: field-recording.jpg
+field_recording: recording-shenandoah.jpg
 analysis: analisis.png
 performance: performance.jpg
 composition_banner: composition_banner.png
