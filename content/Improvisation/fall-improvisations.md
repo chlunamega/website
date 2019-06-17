@@ -1,8 +1,8 @@
 ---
 slug: fall-improvisations
-mp3: fall-improvisations-2.mp3
+mp3: 10.19.18-guitar-flute-walnutcreekpark-1.mp3
 creation_date: 2018-10-19
-showable_date: residencia otoñal exterior no. 4
+showable_date: residencia otoñal exterior no. 3
 performers: Christopher Luna-Mega, guitar; Diego Villaseñor, flute
 place: Walnut Creek Park, Virginia
 ---
