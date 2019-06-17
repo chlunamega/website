@@ -1,5 +1,5 @@
 ---
-title: Under the sea 
+title: Under the sea ice
 subtitle: Meditations on the songs of the Arctic bearded seals
 duration: 11 min
 slug: under-the-sea-ice
