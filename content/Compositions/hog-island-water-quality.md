@@ -4,6 +4,7 @@ duration: 7'20" and varied durations
 place: Hog Island, VA
 slug: hog-island-water-quality
 image: hog-island.jpg
+img_width: 300
 pdf: ammonium-dataset.pdf_DESCRIPTION_ammonium dataset $ phosphate-dataset.pdf_DESCRIPTION_phosphate dataset
 year: 2019
 creation_date: 2019-02-25
