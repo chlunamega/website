@@ -7,6 +7,8 @@ image: installation1.jpg
 pdf: multi-sonogram.pdf_DESCRIPTION_sonogram (fragment) of the 5 microphones
 year: 2019
 creation_date: 2019-02-08
+instrumentation: Multi-channel installation
+premiere: February 9th, 2019. The Lawn at the University of Virginia
 category: Electronics
 description: summer dusk in Walnut Creek Park
 youtube: QhVJWcYEGDs
