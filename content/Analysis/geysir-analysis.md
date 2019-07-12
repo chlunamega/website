@@ -15,7 +15,12 @@ The sounds of geological phenomena are generally noise. Wind, glaciers, oceans, 
 
 In this study, 11 minutes of recording are analyzed using a suite of software for the identification of amplitude and frequency (pitch) content. The pitches are quantized –simplified– to equal temperament (C, C#, D, D#, etc.) in order to be adapted to the piano’s tuning affordances. 
 
-The audios provided below are examples illustrating pitch sets derived from the pitch predominance analysis. See the full score for notation and transformations of these sets. 
+The audios provided below are examples illustrating pitch sets derived from the pitch predominance analysis. The examples present the pitch collections in the following order:
+1. As the displayed pitch collection in ascending order (as a scale), mapping loudness to predominance 
+2. As a cluster with all the notes sounding simultaneously at equal intensities
+3. As a succession of notes or chords featuring high predominance, medium predominance and low predominance pitches in succession
+
+See the full score for notation and transformations of these sets. 
 
 Three aspects of the study are provided in pdf links: 1) amplitude contours of the geyser by octave; 2) full pitch predominance analysis code results; 3) score for seven pianists and electronics.
 
