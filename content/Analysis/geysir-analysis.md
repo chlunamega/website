@@ -1,7 +1,7 @@
 ---
-title: Analysis of pitch class predominance and amplitude of Geysir, Haukadalur valley, Iceland 
+title: Geysir, musical translation of geological noise 
 slug: geysir-analysis
-mp3: staff1-bar39.mp3_DESCRIPTION_Sound example (Staff 1)$ staff2-bar57.mp3_DESCRIPTION_Sound example (Staff 2)$ staff3-bar24.mp3_DESCRIPTION_Sound example (Staff 3)$ staff4-bar83.mp3_DESCRIPTION_Sound example (Staff 4)$ staff5-bar24.mp3_DESCRIPTION_Sound example (Staff 5)$ staff6-bar86.mp3_DESCRIPTION_Sound example (Staff 6)$ staff7-bar94.mp3_DESCRIPTION_Sound example (Staff 7)
+mp3: staff1-bar39.mp3_DESCRIPTION_Sound example (Staff 1)$ staff2-bar57.mp3_DESCRIPTION_Sound example (Staff 2)$ staff3-bar24.mp3_DESCRIPTION_Sound example (Staff 3)$ staff4-bar83.mp3_DESCRIPTION_Sound example (Staff 4)$ staff5-bar24.mp3_DESCRIPTION_Sound example (Staff 5)$ staff6-bar86.mp3_DESCRIPTION_Sound example (Staff 6)$ staff7-bar94.mp3_DESCRIPTION_Sound example (Staff 7)$ geysir.mp3_DESCRIPTION_Geysir, for seven pianists and electronics
 image: geysir-amplitude.png
 img_width: 600
 pdf: amplitude-contours.pdf_DESCRIPTION_Amplitude contours by octave$ geysir-pitch-class-predominance-analysis.pdf_DESCRIPTION_Pitch predominance analysis (full code results)$ geysir-score.pdf_DESCRIPTION_Geysir, for seven pianists and electronics (full score)
@@ -16,9 +16,12 @@ The sounds of geological phenomena are generally noise. Wind, glaciers, oceans, 
 In this study, 11 minutes of recording are analyzed using a suite of software for the identification of amplitude and frequency (pitch) content. The pitches are quantized –simplified– to equal temperament (C, C#, D, D#, etc.) in order to be adapted to the piano’s tuning affordances. 
 
 The audios provided below are examples illustrating pitch sets derived from the pitch predominance analysis. The examples present the pitch collections in the following order:
-1. As the displayed pitch collection in ascending order (as a scale), mapping loudness to predominance 
-2. As a cluster with all the notes sounding simultaneously at equal intensities
-3. As a succession of notes or chords featuring high predominance, medium predominance and low predominance pitches in succession
+
+1) As the displayed pitch collection in ascending order (as a scale), mapping loudness to predominance 
+2) As a cluster with all the notes sounding simultaneously at equal intensities
+3) As a succession of notes or chords featuring high predominance, medium predominance and low predominance pitches in succession
+
+Following the examples is the recording of the live performance of the resulting piece –Geysir, for seven pianists and electronics.
 
 See the full score for notation and transformations of these sets. 
 
