@@ -6,7 +6,7 @@ slug: la-torre-de-chitor
 mp3: chitor.mp3
 image: chitor.jpg
 img_width: 300
-pdf: chitor-score.pdf_DESCRIPTION_La torre de Chitor (for flute and electronics)
+pdf: chitor-score-improv.pdf_DESCRIPTION_La torre de Chitor (for flute and electronics)
 year: 2017
 creation_date: 2017-03-23
 instrumentation: flute and electronics
