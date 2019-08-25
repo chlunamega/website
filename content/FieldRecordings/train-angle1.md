@@ -1,9 +1,9 @@
 ---
-title: Train [angle1]
+title: Train [angles 1 and 2]
 duration: 4'26"
 place: Charlottesville, VA, Rivanna Trail
 slug: train
-mp3: train-angle1.mp3
+mp3: train-angle1.mp3_DESCRIPTION_Train [angle1]$ train-angle2.mp3_DESCRIPTION_Train [angle2]
 image: train.jpg
 pdf: 
 year: 2019
