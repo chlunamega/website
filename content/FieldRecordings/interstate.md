@@ -4,7 +4,7 @@ duration: 7'15"
 place: Charlottesville, VA, Rivanna Trail
 slug: interstate
 mp3: highway2.mp3_DESCRIPTION_Highway
-image: interstate.jpg
+image: highway2.jpg
 pdf: 
 year: 2019
 creation_date: 2019-08-04
