@@ -3,7 +3,7 @@ title: Om, for resonating found objects
 duration: varied durations
 place: Oakland, CA
 slug: om
-image: installation1.jpg
+image: om.png
 pdf: 
 year: 2013
 creation_date: 2013-02-20
