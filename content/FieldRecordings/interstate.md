@@ -3,7 +3,7 @@ title: Highway
 duration: 7'15"
 place: Charlottesville, VA, Rivanna Trail
 slug: interstate
-mp3: train-angle1.mp3_DESCRIPTION_Train [angle1]$ train-angle2.mp3_DESCRIPTION_Train [angle2]
+mp3: highway.mp3_DESCRIPTION_Highway
 image: interstate.jpg
 pdf: 
 year: 2019
