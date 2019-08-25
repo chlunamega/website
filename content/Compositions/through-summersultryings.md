@@ -9,7 +9,7 @@ year: 2019
 creation_date: 2019-02-08
 instrumentation: Multi-channel installation
 premiere: February 9th, 2019. The Lawn at the University of Virginia
-category: Electronics
+category: Installation
 description: summer dusk in Walnut Creek Park
 youtube: QhVJWcYEGDs
 ---
