@@ -1,5 +1,5 @@
 ---
-title: Hog Island Water Quality
+title: (PO4)3− | NH3
 duration: 7'20" and varied durations
 place: Hog Island, VA
 slug: hog-island-water-quality
