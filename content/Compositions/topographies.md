@@ -11,7 +11,7 @@ pdf: topographies.pdf_DESCRIPTION_Topographies
 year: 2009
 creation_date: 2009-10-01
 instrumentation: Orchestra
-forces: 2.2.2
+forces: (2.2.2.2.- 4.2.3.1. - 1 perc., strings – 10.8.6.6.4)
 premiere: September 30, 2009. Sala Nezahualcóyotl, Mexico City
 category: Orchestra
 ---
