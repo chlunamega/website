@@ -5,4 +5,5 @@ creation_date: 2019-4-19
 showable_date: piano solo no. 36
 performers: Christopher Luna-Mega, piano
 place: Charlottesville, Virginia
+image: pianosolo.jpg
 ---
