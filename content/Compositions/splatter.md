@@ -12,7 +12,7 @@ year: 2016
 creation_date: 2016-01-28
 instrumentation: Orchestra
 forces: (3.3.3.3.- 4.3.3.1. - 3 perc., strings – 14.12.10.8.6)
-premiere: April 15, 2016. Harpa Concert Hall, Reykjavik
+performances: BBC Scottish Symphony Orchestra, Glasgow; Iceland Symphony Orchestra, Reykjavik; Orchestra Comunale del Teatro di Bologna, Bologna
 category: Orchestra
 ---
 
