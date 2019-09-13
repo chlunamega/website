@@ -1,7 +1,7 @@
 ---
 _nota: Es necesario usar "http://" para los links
 image: profile.jpeg
-cv: cv.pdf
+cv: 
 email: ch.luna.mega@gmail.com
 soundcloud: https://soundcloud.com/christopher-luna-mega
 youtube: https://www.youtube.com/channel/UC_Uz_eBqMtXeC7GhZmMmfYA/featured?view_as=subscriber
