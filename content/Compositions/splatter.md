@@ -12,7 +12,7 @@ year: 2016
 creation_date: 2016-01-28
 instrumentation: Orchestra
 forces: (3.3.3.3.- 4.3.3.1. - 3 perc., strings – 14.12.10.8.6)
-performances: BBC Scottish Symphony Orchestra, Glasgow; Iceland Symphony Orchestra, Reykjavik; Orchestra Comunale del Teatro di Bologna, Bologna
+premiere: April 15, 2016, Iceland Symphony Orchestra, Reykjavik
 category: Orchestra
 ---
 
