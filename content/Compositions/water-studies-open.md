@@ -6,7 +6,7 @@ slug: water-studies-open
 mp3: water-study-1.mp3_DESCRIPTION_Water Study 1 (indeterminate version)$ water-study-2.mp3_DESCRIPTION_Water study 2 (indeterminate version)
 image: stream.png
 img_width: 400
-pdf: water-study-1.pdf_DESCRIPTION_Water study 1 (indeterminate score)$ water-study-2.pdf_DESCRIPTION_Water study 2 (indeterminate score)
+pdf: water-study-1-indeterminate.pdf_DESCRIPTION_Water study 1 (indeterminate score)$ water-study-2-indeterminate.pdf_DESCRIPTION_Water study 2 (indeterminate score)
 year: 2014
 creation_date: 2014-01-15
 instrumentation: (clarinet, e. guitar, piano, 2 percussionists, 2 electronics)
