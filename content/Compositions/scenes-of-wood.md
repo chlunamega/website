@@ -9,7 +9,7 @@ img_width: 400
 pdf: scenes-of-wood-score.pdf_DESCRIPTION_Escenas para maderas (score)
 year: 2007
 creation_date: 2007-11-23
-instrumentation: flute, clarinet, oboe, french horn, bassoon
+instrumentation: (flute, clarinet, oboe, french horn, bassoon)
 premiere: Sala Xochipilli. Escuela Nacional de Música, Mexico City
 category: Ensemble
 youtube:
