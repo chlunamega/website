@@ -4,7 +4,7 @@ subtitle: In homage to Alberto Caeiro
 duration: 10 min
 slug: guardador-de-rebaños
 mp3: guardador-de-rebaños_XIV.mp3
-image: manuscript.jpeg
+image: manuscript.jpg
 img_width: 400
 pdf: guardador-de-rebaños.pdf_DESCRIPTION_El guardador de rebaños / xiv (score)
 year: 2010
