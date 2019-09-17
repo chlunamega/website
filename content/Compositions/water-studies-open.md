@@ -2,7 +2,7 @@
 title: Water studies 1 and 2 (indeterminate version)
 subtitle: for The Luna Ensemble
 duration: 23 min
-slug: water-studies-indeterminate
+slug: water-studies-open
 mp3: water-study-1.mp3_DESCRIPTION_Water Study 1 (indeterminate version)$ water-study-2.mp3_DESCRIPTION_Water study 2 (indeterminate version)
 image: stream.png
 img_width: 400
