@@ -9,7 +9,7 @@ img_width: 300
 pdf: chitor-score-improv.pdf_DESCRIPTION_La torre de Chitor (for flute and electronics)
 year: 2017
 creation_date: 2017-03-23
-instrumentation: flute and electronics
+instrumentation: (flute and electronics)
 premiere: July 21, 2018. Abrons Art Center, New York City
 category: Solo
 youtube: GffvgktexP8

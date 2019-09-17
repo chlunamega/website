@@ -9,7 +9,7 @@ img_width: 400
 pdf: harmony-of-air.pdf_DESCRIPTION_On the harmony of air (score)
 year: 2017
 creation_date: 2017-02-03
-instrumentation: clarinet and electronics
+instrumentation: (clarinet and electronics)
 premiere: The Bridge, PAI, Charlottesville, VA.
 category: Solo
 youtube:
