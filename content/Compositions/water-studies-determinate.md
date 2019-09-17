@@ -9,7 +9,7 @@ img_width: 400
 pdf: water-studies-1-2.pdf_DESCRIPTION_Water studies 1 and 2 (score)
 year: 2012
 creation_date: 2012-04-15
-instrumentation: string quartet
+instrumentation: (string quartet)
 premiere: Littlefield Concert Hall. Mills College, Oakland, CA
 category: Ensemble
 youtube:

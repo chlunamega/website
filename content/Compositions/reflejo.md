@@ -9,7 +9,7 @@ img_width: 400
 pdf: reflejo.pdf_DESCRIPTION_Reflejo (score)
 year: 2008
 creation_date: 2008-05-03
-instrumentation: piano
+instrumentation: (piano solo)
 premiere: Sala Xochipilli. Escuela Nacional de Música, Mexico City
 category: Solo
 youtube:

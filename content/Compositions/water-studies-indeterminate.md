@@ -7,9 +7,9 @@ mp3: water-study-1.mp3_DESCRIPTION_Water Study 1 (indeterminate version)$ water-
 image: stream.png
 img_width: 400
 pdf: water-study-1.pdf_DESCRIPTION_Water study 1 (indeterminate score)$ water-study-2.pdf_DESCRIPTION_Water study 2 (indeterminate score)
-year: 2012
+year: 2014
 creation_date: 2014-01-15
-instrumentation: clarinet, e. guitar, piano, 2 percussionists, 2 electronics
+instrumentation: (clarinet, e. guitar, piano, 2 percussionists, 2 electronics)
 premiere: San Francisco Community Music Center, San Francisco, CA
 category: Ensemble
 youtube:
