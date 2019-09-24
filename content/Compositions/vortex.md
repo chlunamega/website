@@ -10,7 +10,7 @@ pdf: vortex.pdf_DESCRIPTION_Vortex (for 5 percussionists)
 year: 2016
 creation_date: 2015-09-30
 instrumentation: (glock., 2 mar., 2 roto tom, 2 tam tam, bass drum)
-performances: The William Winant Percussion Group. Oakland, CA
+premiere: The William Winant Percussion Group. Oakland, CA
 category: Ensemble
 youtube:
 ---

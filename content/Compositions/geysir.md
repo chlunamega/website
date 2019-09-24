@@ -10,8 +10,7 @@ pdf: geysir-score.pdf_DESCRIPTION_Geysir, for seven pianist and electronics $gey
 year: 2016
 creation_date: 2016-09-29
 instrumentation: (seven pianists or open instrumentation and electronics)
-premiere: October 20, 2016. Old Cabell Hall, University of Virginia, Charlottesville, Virginia.
-performances: EcoSono Ensemble. Anchorage | UVa piano ensemble featuring Seung-Hye Kim and John Mayhood / Zhen Wang. Charlottesville, VA
+premiere: EcoSono Ensemble. Anchorage, AK | UVa piano ensemble featuring Seung-Hye Kim and John Mayhood / Zhen Wang. Charlottesville, VA
 category: Ensemble
 youtube: b5TAvqpZuKs
 ---

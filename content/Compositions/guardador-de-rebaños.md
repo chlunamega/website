@@ -10,7 +10,7 @@ pdf: guardador-de-rebaños.pdf_DESCRIPTION_El guardador de rebaños / xiv (score
 year: 2010
 creation_date: 2010-01-17
 instrumentation: (clarinet, soprano, piano, violin and cello)
-performances: Mills College Contemporary Performance Ensemble, cond. Steed Cowart. Oakland, CA | Citlali Rosas, clarinet; Teresa Navarro, soprano; Fernando Carmona, piano; Jesús Sánchez, violin; Claudia Cosme, cello. Mexico City
+premiere: Mills College Contemporary Performance Ensemble, cond. Steed Cowart. Oakland, CA | Citlali Rosas, clarinet; Teresa Navarro, soprano; Fernando Carmona, piano; Jesús Sánchez, violin; Claudia Cosme, cello. Mexico City
 category: Ensemble
 youtube:
 ---

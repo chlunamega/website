@@ -9,7 +9,7 @@ pdf: ammonium-dataset.pdf_DESCRIPTION_ammonium dataset $ phosphate-dataset.pdf_D
 year: 2019
 creation_date: 2019-02-25
 instrumentation: Sonification
-performances: Coastal Futures Festival. Machipongo, VA
+premiere: Coastal Futures Festival. Machipongo, VA
 category: Electronics
 description: sonification of phosphates and ammonium
 youtube: VCYFdtts2Hk
