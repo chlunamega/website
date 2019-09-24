@@ -11,6 +11,7 @@ year: 2018
 creation_date: 2018-02-06
 instrumentation: (saxophone quartet)
 premiere: February 2, 2018. Old Cabell Hall, University of Virginia, Charlottesville, Virginia.
+performances: New Thread Quartet. Brooklyn, NY
 category: Ensemble
 youtube: Ft6awsgHT64
 ---

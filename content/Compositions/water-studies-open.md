@@ -10,7 +10,7 @@ pdf: water-study-1-indeterminate.pdf_DESCRIPTION_Water study 1 (indeterminate sc
 year: 2014
 creation_date: 2014-01-15
 instrumentation: (clarinet, e. guitar, piano, 2 percussionists, 2 electronics)
-premiere: San Francisco Community Music Center, San Francisco, CA
+performances: The Luna Ensemble. San Francisco, CA
 category: Ensemble
 youtube:
 ---

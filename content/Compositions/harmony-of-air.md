@@ -11,6 +11,7 @@ year: 2017
 creation_date: 2017-02-03
 instrumentation: (clarinet and electronics)
 premiere: The Bridge, PAI, Charlottesville, VA.
+performances: Shawn Earle, clarinet; Christopher Luna-Mega, electronics. Charlottesville, VA
 category: Solo
 youtube:
 ---

@@ -11,6 +11,7 @@ year: 2017
 creation_date: 2017-03-23
 instrumentation: (flute and electronics)
 premiere: July 21, 2018. Abrons Art Center, New York City
+performances: Gianni Travalusci, flute; Christopher Luna-Mega, electronics. New York City | Byung-Chul Oh, flute; Hyang-sook Song, electronics. Seoul | Kelly Sulick, flute, Christopher Luna-Mega, electronics. Charlottesville, VA
 category: Solo
 youtube: GffvgktexP8
 ---

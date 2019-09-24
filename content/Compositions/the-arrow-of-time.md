@@ -11,6 +11,7 @@ year: 2017
 creation_date: 2017-01-29
 instrumentation: (two percussionists and two pianists)
 premiere: January 29, 2017. Old Cabell Hall, University of Virginia, Charlottesville, Virginia.
+performances: Yarn | Wire. Charlottesville, VA
 category: Ensemble
 youtube: 
 ---

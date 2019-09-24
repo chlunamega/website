@@ -8,7 +8,7 @@ pdf:
 year: 2013
 creation_date: 2013-02-20
 instrumentation: Stereo installation
-premiere: March 18th, 2013. Mills College Chapel
+performances: Mills College Chapel. Oakland, CA
 category: Installation
 description:
 youtube: VPW-Ce0Dc2E

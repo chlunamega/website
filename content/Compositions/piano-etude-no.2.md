@@ -9,6 +9,7 @@ pdf: HightidePlot.pdf_DESCRIPTION_high tide graph $ LowTidePlot.pdf_DESCRIPTION_
 year: 2019
 creation_date: 2019-06-25
 instrumentation: Sonification
+performances: Coastal Futures Festival. Machipongo, VA
 category: Electronics
 description: sonification of high and low tides
 youtube: UhGWPYkcweg

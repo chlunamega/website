@@ -10,7 +10,7 @@ pdf: reflejo.pdf_DESCRIPTION_Reflejo (score)
 year: 2008
 creation_date: 2008-05-03
 instrumentation: (piano solo)
-premiere: Sala Xochipilli. Escuela Nacional de Música, Mexico City
+performances: Fernando Carmona, piano. Mexico City
 category: Solo
 youtube:
 ---

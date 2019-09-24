@@ -11,6 +11,7 @@ year: 2019
 creation_date: 2019-02-06
 instrumentation: (ob., cl., alto sax, bass cl., bn.)
 premiere: February 1, 2019. Old Cabell Hall, University of Virginia, Charlottesville, Virginia.
+performances: Splinter Reeds. Charlottesville, VA
 category: Ensemble
 youtube:
 ---

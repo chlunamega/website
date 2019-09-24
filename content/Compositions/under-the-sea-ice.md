@@ -11,6 +11,7 @@ year: 2016
 creation_date: 2015-12-15
 instrumentation: (string quartet)
 premiere: January 29, 2016. Old Cabell Hall, University of Virginia, Charlottesville, Virginia.
+performances: JACK Quartet / Rivanna String Quartet. Charlottesville, VA
 category: Ensemble
 youtube: IaYXwRApEOw
 ---
