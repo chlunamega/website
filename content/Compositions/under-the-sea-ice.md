@@ -9,7 +9,7 @@ img_width: 600
 pdf: under-the-sea-ice.pdf_DESCRIPTION_Under the sea ice (score)
 year: 2016
 creation_date: 2015-12-15
-instrumentation: (string quartet)
+instrumentation: (string quartet, electronics)
 premiere: January 29, 2016. Old Cabell Hall, University of Virginia, Charlottesville, Virginia.
 performances: JACK Quartet / Rivanna String Quartet. Charlottesville, VA
 category: Ensemble
