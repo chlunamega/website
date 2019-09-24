@@ -3,7 +3,7 @@ title: Escenas para maderas
 subtitle: for woodwind quintet
 duration: 9 min
 slug: scenes-of-wood
-mp3: scenes-of-wood.mp3
+mp3: 1.m4a_DESCRIPTION_1$ 2.m4a_DESCRIPTION_2$ 3.m4a_DESCRIPTION_3$ 4.m4a_DESCRIPTION_4$ 5.m4a_DESCRIPTION_5 (en la brecha)
 image: scenes-of-wood.png
 img_width: 400
 pdf: scenes-of-wood-score.pdf_DESCRIPTION_Escenas para maderas (score)
