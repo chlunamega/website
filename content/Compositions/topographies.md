@@ -12,7 +12,8 @@ year: 2009
 creation_date: 2009-10-01
 instrumentation: Orchestra
 forces: (2.2.2.2.- 4.2.3.1. - 1 perc., strings – 10.8.6.6.4)
-premiere: September 30, 2009. Sala Nezahualcóyotl, Mexico City
+performances: Orquesta Sinfónica Nacional (Mexico), cond. José Luis Castillo. Mexico City | Orquesta Sinfónica de Aguascalientes, cond. David Rocha. Jerez, Mexico | Orquesta Sinfónica de la Escuela Nacional de Música (UNAM). Mexico City
+premiere: Orquesta Sinfónica Nacional (Mexico), cond. José Luis Castillo. Mexico City | Orquesta Sinfónica de Aguascalientes, cond. David Rocha. Jerez, Mexico | Orquesta Sinfónica de la Escuela Nacional de Música (UNAM). Mexico City
 category: Orchestra
 ---
 
