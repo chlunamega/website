@@ -12,7 +12,7 @@ year: 2016
 creation_date: 2016-01-28
 instrumentation: Orchestra
 forces: (3.3.3.3.- 4.3.3.1. - 3 perc., strings – 14.12.10.8.6)
-premiere: April 15, 2016, Iceland Symphony Orchestra, Reykjavik
+premiere: BBC Scottish Symphony Orchestra, cond. Ilan Volkov. Glasgow | Orchestra del Teatro Comunale di Bologna, cond. Tonino Battista. Bologna | Iceland Symphony Orchestra, cond. Ilan Volkov. Reykjavik
 category: Orchestra
 ---
 
