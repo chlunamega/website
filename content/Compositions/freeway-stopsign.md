@@ -10,8 +10,8 @@ pdf: freeway-stopsign.pdf_DESCRIPTION_Freeway and stop sign (score)
 year: 2012
 creation_date: 2012-12-03
 instrumentation: (ten sax, hn, 2 perc, 2 elec guit, harp, pno, 2 vl, vc, db, 2 electronics)
-premiere: Littlefield Concert Hall, Mills College, Oakland, CA
-performances: UC Berkeley JIM / Mills College MIE joint ensemble, cond. Christopher Luna-Mega. Oakland, CA | The Luna Ensemble. San Francisco | University of Virginia New Music Ensemble. Charlottesville
+performances: Littlefield Concert Hall, Mills College, Oakland, CA
+premiere: UC Berkeley JIM / Mills College MIE joint ensemble, cond. Christopher Luna-Mega. Oakland, CA | The Luna Ensemble. San Francisco | University of Virginia New Music Ensemble. Charlottesville
 category: Chamber Orchestra
 youtube:
 ---

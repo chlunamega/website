@@ -10,8 +10,8 @@ pdf: waves-score.pdf_DESCRIPTION_Waves Break Aural Shores (portrait of Puerto Ma
 year: 2018
 creation_date: 2018-02-06
 instrumentation: (saxophone quartet, electronics)
-premiere: February 2, 2018. Old Cabell Hall, University of Virginia, Charlottesville, Virginia.
-performances: New Thread Quartet. Brooklyn, NY
+performances: February 2, 2018. Old Cabell Hall, University of Virginia, Charlottesville, Virginia.
+premiere: New Thread Quartet. Brooklyn, NY
 category: Ensemble
 youtube: Ft6awsgHT64
 ---
