@@ -3,7 +3,7 @@ title: Geysir
 subtitle: for seven pianists or open instrumentation and electronics
 duration: 8 min
 slug: geysir-composition
-mp3: geysir.mp3_DESCRIPTION_Live version / Esther Kim, piano 1; Tim Booth, piano 2; Seung-Hye Kim, piano 3; Gabrielle Chen, piano 4; John Mayhood, piano 5; Nick Anderson, piano 6; Nancy Zhu, piano 7; Zhen Wang, electronics; Christopher Luna-Mega, electronics$ geysir–stereomix.mp3_DESCRIPTION_Studio version / Seung-Hye Kim, multitrack pianos 1–7
+mp3: geysir.mp3_DESCRIPTION_Live version / Esther Kim, piano 1; Tim Booth, piano 2; Seung-Hye Kim, piano 3; Gabrielle Chen, piano 4; John Mayhood, piano 5; Nick Anderson, piano 6; Nancy Zhu, piano 7; Zhen Wang, electronics; Christopher Luna-Mega, electronics$ Geysir–stereomix.mp3_DESCRIPTION_Studio version / Seung-Hye Kim, multi-track pianos 1 through 7
 image: geysir-pic.jpg
 img_width: 400
 pdf: geysir-score.pdf_DESCRIPTION_Geysir, for seven pianist and electronics $geysir-pitch-class-predominance-analysis.pdf_DESCRIPTION_Geysir's pitch-class predominance analysis
