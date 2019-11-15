@@ -1,6 +1,6 @@
 ---
 title: Splatter
-subtitle: orchestral adaptation of a free improvisation by R. Mitchell, K. Baku and C. Taborn
+subtitle: based on a free improvisation by R. Mitchell, K. Baku and C. Taborn
 duration: 14 min
 slug: splatter
 mp3: Splatter-MTAO.mp3_DESCRIPTION_Montreal Toronto Art Orchestra, Gregory Oh (conductor)
