@@ -7,7 +7,7 @@ mp3: Splatter-MTAO.mp3_DESCRIPTION_Montreal Toronto Art Orchestra, Gregory Oh (c
 aiff: Splatter
 image: Splatter-transcription.png
 img_width: 400
-pdf: Splatter-chamber-orchestra.pdf_DESCRIPTION_For Chamber Orchestra
+pdf: Splatter-chamber-orchestra.pdf_DESCRIPTION_For Chamber Orchestra$ Splatter-orchestra.pdf_DESCRIPTION_For Orchestra
 year: 2016
 creation_date: 2016-01-28
 instrumentation: Orchestra
