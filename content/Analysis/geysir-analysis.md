@@ -4,7 +4,7 @@ slug: geysir-analysis
 mp3: staff1-bar39.mp3_DESCRIPTION_Sound example (Staff 1)$ staff2-bar57.mp3_DESCRIPTION_Sound example (Staff 2)$ staff3-bar24.mp3_DESCRIPTION_Sound example (Staff 3)$ staff4-bar83.mp3_DESCRIPTION_Sound example (Staff 4)$ staff5-bar24.mp3_DESCRIPTION_Sound example (Staff 5)$ staff6-bar86.mp3_DESCRIPTION_Sound example (Staff 6)$ staff7-bar94.mp3_DESCRIPTION_Sound example (Staff 7)$ geysir.mp3_DESCRIPTION_Geysir, for seven pianists and electronics
 image: geysir-amplitude.png
 img_width: 600
-pdf: amplitude-contours.pdf_DESCRIPTION_Amplitude contours by octave$ geysir-pitch-class-predominance-analysis.pdf_DESCRIPTION_Pitch predominance analysis (full code results)$ geysir-score.pdf_DESCRIPTION_Geysir, for seven pianists and electronics (full score)
+pdf: geysir-cmmr-paper.pdf_DESCRIPTION_Geysir_Musical translation of geological noise$ geysir-pitch-class-predominance-analysis.pdf_DESCRIPTION_Pitch predominance analysis (full code results)$ geysir-score.pdf_DESCRIPTION_Geysir, for seven pianists and electronics (full score)
 year: 2016
 creation_date: 2016-05-15
 category: Sound model-based compositions
