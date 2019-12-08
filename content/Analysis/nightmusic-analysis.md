@@ -7,7 +7,7 @@ img_width: 600
 pdf: Stine_Luna-Mega_Musical-aesthetics-of-the-natural-world.pdf_DESCRIPTION_Night music, in Eli Stine and Christopher Luna-Mega's paper 'Musical Aesthetics of the Natural World'$ night-music-score.pdf_DESCRIPTION_Night music, score
 year: 2019
 creation_date: 2019-09-04
-category: Sound model-based compositions
+category: Writings
 
 ---
 

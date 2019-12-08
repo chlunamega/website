@@ -7,7 +7,7 @@ img_width: 600
 pdf: geysir-cmmr-proceedings.pdf_DESCRIPTION_2019 CMMR Proceedings –Geysir, musical translation of geological noise$ geysir-pitch-class-predominance-analysis.pdf_DESCRIPTION_Pitch predominance analysis (full code results)$ Geysir-score.pdf_DESCRIPTION_Geysir, for seven pianists and electronics (full score)
 year: 2016
 creation_date: 2016-05-15
-category: Sound model-based compositions
+category: Writings
 
 ---
 
