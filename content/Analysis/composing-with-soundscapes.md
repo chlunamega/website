@@ -1,6 +1,6 @@
 ---
 title: Analysis, transcription, and composition in "Under the sea ice", for string quartet and electronics 
-slug: 
+slug: composing-with-soundscapes
 youtube: 2qfmJ4nQcIw&t
 year: 2019
 creation_date: 2019-12-07
