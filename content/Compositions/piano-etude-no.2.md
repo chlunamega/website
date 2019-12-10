@@ -29,4 +29,4 @@ While this version of the piece relies on purely electronic sounds (a MIDI instr
 
 This piece is written for The Coastal Conservatory at the University of Virginia. Special thanks to John Porter, Cora Johnston and Karen McGlathery for their kind and insightful support. 
 
-The source data set is: Porter J., D. Krovetz, J. Spitler, T. Williams, K. Overman, W. Nuttle. 2019. High and Low Tides of Hog Island Bay, Redbank, VA, and Oyster, VA for the Virginia Coast Reserve 2007-2018. Environmental Data Initiative. https://doi.org/10.6073/pasta/7e48a6e...
+The source data set is: Porter J., D. Krovetz, J. Spitler, T. Williams, K. Overman, W. Nuttle. 2019. High and Low Tides of Hog Island Bay, Redbank, VA, and Oyster, VA for the Virginia Coast Reserve 2007-2018. https://portal.edirepository.org/nis/mapbrowse?scope=knb-lter-vcr&identifier=153
