@@ -1,5 +1,6 @@
 ---
 title: Piano étude no. 2 'tidal flow'
+subtitle: sonification (midi)
 duration: 4'22"
 place: Hog Island, VA
 slug: piano-etude-no.2
