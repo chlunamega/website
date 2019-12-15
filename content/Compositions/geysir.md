@@ -3,7 +3,7 @@ title: Geysir
 subtitle: for seven spatialized pianists and electronics
 duration: 8 min
 slug: geysir-composition
-mp3: geysir-stereomix.mp3_DESCRIPTION_Geysir (for seven piano parts and electronics) / Seung-Hye Kim, multi-track pianos 1 through 7
+mp3: geysir.mp3_DESCRIPTION_Geysir (for seven piano parts and electronics) / Seung-Hye Kim, multi-track pianos 1 through 7
 image: geysir-pic.jpg
 img_width: 400
 pdf: Geysir-score.pdf_DESCRIPTION_Geysir (for seven piano parts and electronics) $ geysir-cmmr-proceedings.pdf_DESCRIPTION_Geysir-musical translation of geological noise (CMMR proceedings)
