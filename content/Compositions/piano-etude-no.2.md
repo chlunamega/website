@@ -6,7 +6,7 @@ place: Hog Island, VA
 slug: piano-etude-no.2
 image: hog-island.jpg
 img_width: 300
-pdf: HightidePlot.pdf_DESCRIPTION_high tide graph $ LowTidePlot.pdf_DESCRIPTION_low tide graph
+pdf: HightidePlot.pdf_DESCRIPTION_high tide graph $ LowTidePlot.pdf_DESCRIPTION_low tide graph $ tide-maxpatch-text.rtf_DESCRIPTION_Sonification Max MSP design
 year: 2019
 creation_date: 2019-06-25
 instrumentation: Sonification
