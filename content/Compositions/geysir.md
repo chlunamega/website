@@ -9,7 +9,7 @@ img_width: 400
 pdf: Geysir-score.pdf_DESCRIPTION_Geysir (for seven piano parts and electronics) $ geysir-cmmr-proceedings.pdf_DESCRIPTION_Geysir-musical translation of geological noise (CMMR proceedings)
 year: 2016
 creation_date: 2016-09-29
-instrumentation: (seven pianists or open instrumentation and electronics)
+instrumentation: (seven spatialized pianists and electronics)
 premiere: EcoSono Ensemble. Anchorage, AK | UVa piano ensemble / Zhen Wang. Charlottesville, VA | Seung-Hye Kim, multitrack piano and electronics. Newport News, VA
 category: Ensemble
 
