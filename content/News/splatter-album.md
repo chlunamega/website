@@ -5,8 +5,7 @@ slug: splatter-album
 showable_date: 4.20.2020
 title: Splatter release as title track in AngelicA Festival's record on Roscoe Mitchell performances
 image: splatter-album.png
-img_width: 400
+img_width: 550
 description: https://www.aaa-angelica.com/aaa/dischi/roscoe-mitchell-splatter/
 location: 
 ---
-
