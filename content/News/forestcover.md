@@ -1,6 +1,6 @@
 ---
 nota: Fechas en formato YYYY-MM-DD, el slug debe ser el nombre de folder en public/news/. i.e. "public/news/<mi-slug>/imagen.jpg"
-published_date: 2020-08-05
+published_date: 2020-8-05
 slug: forestcover
 showable_date: 08.13.2020
 title: Forestcover at the Crozet Arts Initiative
