@@ -6,6 +6,6 @@ showable_date: 4.28.2020
 title: Album release –"Aural Shores" (Environment-derived composition, Vol. 1)
 image: aural-shores.jpg
 img_width: 400
-description: https://edgetonerecords.bandcamp.com/album/aural-shores
-location: 
+
 ---
+[purchase Aural Shores on Edgetone records](https://edgetonerecords.bandcamp.com/album/aural-shores)
