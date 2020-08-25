@@ -9,5 +9,4 @@ img_width: 400
 description: https://15questions.net/interview/fifteen-questions-interview-christopher-luna-mega/page-1/
 location: 
 ---
-
 [read article here](https://15questions.net/interview/fifteen-questions-interview-christopher-luna-mega/page-1/)
