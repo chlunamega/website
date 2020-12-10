@@ -13,7 +13,7 @@ instrumentation: (piano, viola, cello, synthesizers, and field recordings)
 performances: August 13, 2020. Pre Re Nata Brewery, Crozet, Virginia.
 premiere: Danielle Wiebe-Burke, viola; Schuyler Slack, cello; Christopher Luna-Mega, piano/electronics. Charlottesville, VA
 category: Ensemble
-youtube: dOBRutKaQ74&t=2s
+youtube: dOBRutKaQ74&t=151s
 ---
 
 Forestcover combines climate science with musical composition. Through earth system modeling, we test how expanding forest cover based on biophysical and sociopolitical realities will impact climate as well as ecosystems and the services they provide, at the global and regional scale. We then translate the modeling outputs into sound, thereby transforming ecological climatology data into music. This inter-disciplinary collaboration seeks to connect the sciences with the arts, specifically environmental science with music, in order to expand the possibilities of cultural engagement with environmental change and sustainability. 
