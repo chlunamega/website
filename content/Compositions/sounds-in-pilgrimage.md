@@ -13,7 +13,7 @@ instrumentation: (field recordings, electronics)
 performances: May 6, 2020. Digitalis Online Electronic Music Festival
 premiere: Digitalis Online Electronic Music Festival
 category: Electronics
-youtube: Nblat4JhVao&list=PL68Yh83v4cy_OLONXdq7slBPhmX8De1yw&index=8
+youtube: Nblat4JhVao
 ---
 
 Unlike the human sound-based pieces I have composed with a focus on mechanical pollution, this piece seeks the sounds of and around spiritual practice. After thinking about what those sounds consist of, and coming to the conclusion that I was only tangentially interested in ritualistic and musical sounds of worship, I arrived at the idea of exploring the incidental sounds of every aspect of a pilgrimage. Sounds of footsteps on gravel, grass, and pavement, sounds of different forest textures, townspeople, pilgrims, streets, temples, cattle, vehicles passing by… these are sounds that become imprinted, ingrained in pilgrims on any pilgrimage, whether Dharamshala, Jerusalem, or Santiago de Compostela. 
