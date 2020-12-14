@@ -23,6 +23,6 @@ Fragment of A Bao A Qu, by Jorge Luis Borges.
 
 La torre de Chitor is inspired by the short story A Bao A Qu by Jorge Luis Borges, included in The Book of Imaginary Beings (1968). The piece represents the performer’s ascension to the top of the Tower of Victory and the gradual coming into being of the A Bao A Qu. The electronics embody the being’s response to the performer. The music flows from the flute’s bottom register progressively to the upper register, from a single band width to multiple band widths, from the unison to the micro-tonal cluster. As these elements gradually build, there is an activation of a transcendental glow analogous to the process of the performer.
 
-Performers: Recording version: Kelly Sulick, flute; Christopher Luna-Mega, electronics; Video version (New York City Electroacoustic Music Festival): Gianni Travalusci, flute; Christopher Luna-Mega, electronics
+Performers: Recording version: Kelly Sulick, flute; Christopher Luna-Mega, electronics; Video version (New York City Electroacoustic Music Festival): Gianni Travalusci, flute; Christopher Luna-Mega, electronics. Other performances: Seoul International Computer Music Festival: Byung-Chul Oh, flute; Hyang-sook Song, electronics
 
 Thanks to Maxwell Tfirn for his technical support and to Kelly Sullick for her dedication in the recording of the flute samples.
